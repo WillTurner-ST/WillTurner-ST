@@ -3,10 +3,6 @@
 
 - 🔭 I’m currently working on **OnCode**
 
-- 🌱 I’m currently learning **Vue, Django**
-
-- 👯 I’m looking to collaborate on [OnCode CAD/MDT](https://github.com/WillTurner-ST/OnCode-CAD-MDT)
-
 - 🤝 I’m looking for help with **Interview skills!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/WillTurner-ST](https://github.com/WillTurner-ST)
@@ -14,8 +10,6 @@
 - 💬 Ask me about **MERN, Java/Spring, Python/Flask**
 
 - 📫 How to reach me **williamturner321@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1PsFadAg_3ngx-7xUSk7ED6RcPyu8ihXDx-BVeL_ldM0/edit?usp=drivesdk](https://docs.google.com/document/d/1PsFadAg_3ngx-7xUSk7ED6RcPyu8ihXDx-BVeL_ldM0/edit?usp=drivesdk)
 
 - ⚡ Fun fact **I've been to 48/50 states. So far Alaska has been my favorite. Maine and Hawaii coming 2023**
 
